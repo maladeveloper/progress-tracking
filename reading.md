@@ -1,0 +1,3 @@
+Diplomacy - Henry Kissinger - pg. 47
+The Urge - Carl Erik Fisher - pg. 30
+The Sunny Nihilist - Wendy Syfret - pg. 30
