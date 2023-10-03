@@ -41,7 +41,7 @@ Chinup -
 Bicep Curl -
 3x10: 47.5
 5x5: 55
-3x3: 57.5
+3x3: 60
 
 Seated Row -
 3x10:100
