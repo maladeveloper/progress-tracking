@@ -44,7 +44,7 @@ Bicep Curl -
 3x3: 60
 
 Seated Row -
-3x10:100
+3x10:107
 5x5:113
 3x3:120
 
