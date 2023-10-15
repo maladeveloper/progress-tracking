@@ -26,7 +26,7 @@ Shoulder Press -
 Deadlift -
 3x10: 95
 5x5: 105
-3x3: 107.5
+3x3: 110
 
 Pullup -
 3x10: 10
