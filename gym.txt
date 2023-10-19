@@ -4,7 +4,7 @@ Bench Press -
 3x3: 102.5
 
 Inclined Bench Press -
-3x10: 70
+3x10: 72.4
 5x5: 77.5
 3x3: 82.5
 
