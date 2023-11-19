@@ -49,7 +49,7 @@ Seated Row -
 3x3:120
 
 Chest Dips -
-3x10: 8.75
+3x10: 10
 5x5: 12.5
 3x3: 15
 
