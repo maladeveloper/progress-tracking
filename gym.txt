@@ -36,7 +36,7 @@ Pullup -
 Chinup -
 3x10: 7.5
 5x5: 16.25
-3x3: 20
+3x3: 22.5
 
 Bicep Curl -
 3x10: 47.5
