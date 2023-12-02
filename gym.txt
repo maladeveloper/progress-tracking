@@ -16,7 +16,7 @@ Fly Clap -
 Squat -
 3x10: 105
 5x5: 110
-3x3: 110
+3x3: 112.5
 
 Shoulder Press -
 3x10: 57.5
