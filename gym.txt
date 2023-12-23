@@ -19,7 +19,7 @@ Squat -
 3x3: 112.5
 
 Shoulder Press -
-3x10: 57.5
+3x10: 60
 5x5: 67.5
 3x3: 70
 
