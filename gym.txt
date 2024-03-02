@@ -51,7 +51,7 @@ Seated Row -
 Chest Dips -
 3x10: 10
 5x5: 5
-3x3: 10
+3x3: 12.5
 
 Fly -
 3x10: 22.5
